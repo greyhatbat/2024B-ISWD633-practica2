@@ -1,3 +1,6 @@
-# COMPLETAR  
-Comparando sus conocimientos antes de hacer la práctica con sus conocimientos después de hacer la tarea, explicar los principales aprendizajes logrados para beneficio de su formación profesional.  
-Si solucionó un problema presentado al realizar la práctica también se debe documentar.
+##
+Durante el taller sobre Docker, aprendí a utilizar esta herramienta para ejecutar y gestionar contenedores de manera efectiva, algo clave para el despliegue de aplicaciones en entornos controlados y replicables. Ahora comprendo cómo exponer servicios dentro de un contenedor para que sean accesibles desde el exterior, lo que facilita la interacción entre el contenedor y el sistema host, esencial para el acceso a aplicaciones como servidores web o bases de datos.
+##
+Otro tema fundamental fue la configuración de variables de entorno en los contenedores, una práctica que permite adaptar aplicaciones sin modificar su configuración interna, especialmente útil para datos sensibles o configuraciones específicas de cada entorno. Este enfoque es ideal para manejar servicios que necesitan personalización en diferentes contextos.
+##
+Finalmente, pude profundizar en las distintas etapas del ciclo de vida de los contenedores, lo cual me ayudó a entender cuándo es más apropiado crear, ejecutar o detener un contenedor según las necesidades de cada proyecto. Este conocimiento me aporta herramientas para gestionar los entornos de desarrollo y producción con mayor precisión, facilitando la eficiencia y flexibilidad en el despliegue de aplicaciones.
